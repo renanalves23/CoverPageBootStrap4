@@ -28,6 +28,9 @@ html,
 body {
   height: 100%;
   background-color: #333;
+  background-image: url(bg4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 
 }
 
